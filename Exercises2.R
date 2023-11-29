@@ -89,7 +89,7 @@ installed.packages()
 # Hint: El objetivo de este ejercicio es ayudarle desarrollar las habilidades de encontrar un paquete que realice
 # una nueva función que necesita ejecutar, instalarlo y usarlo.
 
-# Ejercicio 5
+# Ejercicio 5 --------------------------------------------------------------------------------------------------------
 # ¿Cómo puede importar/exportar desde MS Excel (XLSX archivos)? Encuentre un paquete apropiado, instalelo
 # y úselo para dicho propósito.
 install.packages("xlsx")
